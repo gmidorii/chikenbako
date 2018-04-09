@@ -1,3 +1,6 @@
 # parcel
 dist
 .cache
+
+# yarn
+node_modules
