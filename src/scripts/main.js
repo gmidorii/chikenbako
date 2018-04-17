@@ -13,3 +13,5 @@ function searchChiken() {
   //   return
   // }
 }
+
+window.searchChiken = searchChiken
